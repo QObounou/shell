@@ -1,4 +1,4 @@
-## SCRiPT SHELL
+## Script Shell
 
 Script Shell ? Que cela signifie-t-il ?
 
